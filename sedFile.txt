@@ -1,0 +1,2 @@
+Linux is fun to learn.
+man command is used to get help of any command in Linux.

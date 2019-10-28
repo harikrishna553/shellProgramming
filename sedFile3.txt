@@ -1,0 +1,3 @@
+UNIX is fun to learn. UNIX is my favorite operating system.
+man command is used to get help of any command in UNIX.
+UNIX is fun, UNIX is easy, UNIX is experimental

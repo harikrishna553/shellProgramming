@@ -1,0 +1,8 @@
+# Author Details
+Name: Krishna
+Date: 30-10-2019
+
+# Project Details
+Application Name: Chat Server
+Version: 1.23
+

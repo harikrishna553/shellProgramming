@@ -1,0 +1,3 @@
+Linux is fun to learn. Linux is my favorite operating system.
+man command is used to get help of any command in Linux.
+Linux is fun, Linux is easy, Linux is experimental

@@ -1,0 +1,4 @@
+Linux is fun to learn. Linux is my favorite operating system.
+I love programming
+I love shell scripting
+Linux is fun, Linux is easy, Linux is experimental
